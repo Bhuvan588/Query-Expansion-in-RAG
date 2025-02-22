@@ -4,7 +4,7 @@ Traditional or Naive RAG lacks in detailed context understanding and hence lacks
 
 This demo utilizes Local Ollama model and ChromaDB along with Langchain
 
-NOTE: The code is built on top of the code of this repo (Please refer this first )
+NOTE: The code is built on top of the code of this repo [Please refer this first](https://github.com/Bhuvan588/Intro-to-RAG)
 
 ## :gear: Working
 ![WhatsApp Image 2025-02-23 at 2 17 17 AM](https://github.com/user-attachments/assets/9368a243-1261-4ef7-b4b8-5298843a5c08)
