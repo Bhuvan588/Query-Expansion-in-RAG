@@ -41,6 +41,8 @@ ollama pull nomic-embed-text
 
 Now install dependencies using ``` pip install -r requirements.txt```
 
+Also you will need a [Langsmith API key](https://smith.langchain.com/) which is free. Copy the generated key and upon the execution of the second cell , paste this key wherever prompted and enter.
+
 Add your pdf into this repo and rename as notes.pdf
 
 Run the cells one by one to get answers to your desired questions!!
